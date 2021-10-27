@@ -10,11 +10,11 @@ I lead Developer Relations (DevRel) for GitHub in India. I am on a mission to he
 
 Python 🐍 is my first love 💙. I also write in Ruby. 
 
-Async programming in JS gives me nightmares😰 But I like to work async 😁
+Learning NodeJS and other JS frameworks 📖
 
 SQL and Trino are my superpowers 🦾
 
-Containers & container orchestration is where I go deep 🕵️
+Cloud, containers and orchestration is where I go deep 🕵️
 
 You can find me in action with GitHub Actions :octocat:
 
@@ -28,6 +28,7 @@ You can find me in action with GitHub Actions :octocat:
 
 - [GitHub India public repo](https://github.com/github/india)
 - [Made in India Collection on GitHub Explore](https://github.com/collections/made-in-india)
+- [GitHub Action to Comment on Issue based on Assignees](https://github.com/mvkaran/comment-on-issue)
 - [GitHub Action to Check Issue Assignees and Commenters](https://github.com/marketplace/actions/check-issue-assignees-with-commenters)
 
 <br/>
