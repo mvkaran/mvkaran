@@ -2,7 +2,7 @@
 
 # Hi 👋 I am Karan. मम नाम करणः|
 
-I lead Developer Relations (DevRel) for GitHub in India. I am on a mission to help every developer be a part of the open source ecosystem and grow their software development skills through the power of GitHub.
+I lead Developer Relations (DevRel) for GitHub in some of our international markets, including India and LATAM. I am on a mission to help every developer be a part of the open source ecosystem and grow their software development skills through the power of GitHub.
 
 ## The developer side of me
 
@@ -26,7 +26,6 @@ You can find me in action with GitHub Actions :octocat:
 
 **Author & Maintainer of:**
 
-- [GitHub India public repo](https://github.com/github/india)
 - [Made in India Collection on GitHub Explore](https://github.com/collections/made-in-india)
 - [GitHub Action to Comment on Issue based on Assignees](https://github.com/mvkaran/comment-on-issue)
 - [GitHub Action to Check Issue Assignees and Commenters](https://github.com/marketplace/actions/check-issue-assignees-with-commenters)
